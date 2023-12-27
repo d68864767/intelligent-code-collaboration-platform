@@ -1,0 +1,55 @@
+{
+  "name": "ai-powered-code-collaboration-platform",
+  "version": "1.0.0",
+  "description": "An AI-driven code collaboration platform designed to facilitate collaborative coding efforts on large-scale open-source projects.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node testFiles.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourname/yourproject.git"
+  },
+  "keywords": [
+    "AI",
+    "code collaboration",
+    "open-source",
+    "code review",
+    "codebase analysis",
+    "codebase governance",
+    "knowledge transfer",
+    "multi-modal collaboration",
+    "codebase security",
+    "codebase change impact prediction",
+    "codebase trend analysis",
+    "community building",
+    "code documentation",
+    "continuous improvement",
+    "testing strategies",
+    "innovation suggestions",
+    "technical debt assessment",
+    "codebase evolution forecasting"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourname/yourproject/issues"
+  },
+  "homepage": "https://github.com/yourname/yourproject#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "bcryptjs": "^2.4.3",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.4.0",
+    "supertest": "^6.1.3"
+  }
+}
